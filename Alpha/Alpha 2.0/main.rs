@@ -1,0 +1,36 @@
+//use rand::Rng;
+
+
+
+fn main() {
+/*let mut rng =  rand::thread_rng();
+let l1 = rng.gen_bool(0.5);
+let l2 = rng.gen_bool(0.5);
+let l3 = rng.gen_bool(0.5);
+let l4 = rng.gen_bool(0.5);
+let l5 = rng.gen_bool(0.5);
+let l6 = rng.gen_bool(0.5);
+let l7 = rng.gen_bool(0.5);
+convert_to_line(l7);
+convert_to_line(l6);
+convert_to_line(l5);
+convert_to_line(l4);
+convert_to_line(l3);
+convert_to_line(l2);
+convert_to_line(l1);*/
+let heptagram = 13;
+let h_binary = format!("{:07b}", heptagram);
+//let h_string = h_binary.to_string();
+let h_bools: Vec<bool> = h_binary.chars().map(|c| c == '1').collect();
+println!("{heptagram}");
+println!("{h_binary}");
+println!("{:?}", h_bools);
+h_bools.iter().for_each(|&x| convert_to_line(x));
+}
+fn convert_to_line(var: bool) {
+     if var == false {
+         println!("\t--  --");
+     } else {
+         println!("\t------");
+     }
+}
