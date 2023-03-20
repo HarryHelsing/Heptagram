@@ -7,7 +7,7 @@ Create a list of names for the heptagrams that show up when generated
 Create mechanism for "changing lines" (reference changing lines in I Ching)
 
 Research
--Historical ~hexagram~ orders, binary, King Wen Sequence ect
+-Historical *hexagram* orders, binary, King Wen Sequence ect
 -Chakras reflective of a line within each heptagram 7,6,5,4,3,2,1
  1: Root 2: Sacral 3: Solar Plexus 4: Heart 5: Throat 6: Third Eye 7: Crown
  With Root on the bottom and Crown on top
