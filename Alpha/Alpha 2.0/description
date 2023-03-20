@@ -1,1 +1,7 @@
 Converts integer from 0 - 127 (1 - 128) into heptagram
+
+Code logic
+Generates number between 0 - 127,
+Converts number into binary of seven bits
+Binary converted into a Vec bool
+Convert_to_line fn is run on each book of the Vec book
