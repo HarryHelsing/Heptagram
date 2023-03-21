@@ -1,4 +1,5 @@
 # Heptagram
+
 Tool for divination based upon the I Ching
 Terminal based Heptagram generator (akin to the I Ching's ***hexagram*** but with seven lines)
 
@@ -7,6 +8,8 @@ Terminal based Heptagram generator (akin to the I Ching's ***hexagram*** but wit
 ## To-do
 - Create a list of names for the heptagrams that show up when generated
 - Create mechanism for "changing lines" (reference changing lines in I Ching)
+
+***
 
 ## Research
 - Historical *hexagram* orders, binary, King Wen Sequence ect
