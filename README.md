@@ -6,8 +6,8 @@ Terminal based Heptagram generator (akin to the I Ching's ***hexagram*** but wit
 ***
 
 ### To-do
-- Create a list of names for the heptagrams that show up when generated
-- Create mechanism for "changing lines" (reference changing lines in I Ching)
+- [ ] Create a list of names for the heptagrams that show up when generated
+- [ ] Create mechanism for "changing lines" (reference changing lines in I Ching)
 
 ***
 
