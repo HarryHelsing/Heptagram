@@ -18,3 +18,4 @@ Terminal based Heptagram generator (akin to the I Ching's ***hexagram*** but wit
     With Root on the bottom and Crown on top
 - Probabilities in changing lines for coding changing lines
     (look into coins I Ching method and sticks method for probability.)
+- Trigrams
